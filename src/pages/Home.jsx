@@ -22,7 +22,7 @@ function Home() {
         </h1>
 
         <h2>
-          Software Engineering Student & Web Developer
+          Software Engineering Student with lots of passion
         </h2>
 
         <p className="home-description">
